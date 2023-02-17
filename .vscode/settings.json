@@ -1,0 +1,16 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    // "**/vendor": true,
+    // "**/vagrant": true
+  },
+  "i18n-ally.localesPaths": [
+    "web/assets/5da38c5/js/i18n",
+    "web/assets/9f58a5aa/js/i18n"
+  ]
+}
